@@ -1,0 +1,5 @@
+pandas
+faker
+plotly
+seaborn
+streamlit
