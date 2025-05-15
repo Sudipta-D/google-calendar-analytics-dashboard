@@ -60,6 +60,11 @@ google-calendar-analytics/
 └── README.md
 
 ---
+## 🚀 Live Demo
+
+👉 [Click here to view the live app](https://sudipta-d-calendar-analytics.streamlit.app/)
+
+---
 
 ## 🚀 How to Run
 
@@ -77,8 +82,3 @@ pip install -r requirements.txt
 ## Run the app
 streamlit run dashboard/app.py
 
----
-
-**## 🚀 Live Demo**
-
-👉 [Click here to view the live app](https://sudipta-d-calendar-analytics.streamlit.app/)
