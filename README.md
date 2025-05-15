@@ -66,7 +66,7 @@ google-calendar-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sudipta-D/google-calendar-analytics.git
+git clone https://github.com/Sudipta-D/google-calendar-analytics-dashboard.git
 cd google-calendar-analytics
 ---
 
