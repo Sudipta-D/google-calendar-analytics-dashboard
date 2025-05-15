@@ -40,7 +40,24 @@ It is an attempt to develop a monetizable feature concept for Google Calendar ta
 ---
 
 ## 📂 Folder Structure
-<pre lang="markdown"> ``` google-calendar-analytics/ ├── dashboard/ # Streamlit app │ └── app.py ├── data/ │ └── calendar_events.db ├── sql/ │ └── calendar_analysis.sql ├── notebooks/ # EDA, data generation │ ├── generate_calendar_data.py │ ├── eda_visuals.ipynb │ └── sql_analysis.ipynb ├── images/ # Screenshots or visuals │ └── sample_dashboard.png ├── .streamlit/ │ └── config.toml ├── .gitignore ├── requirements.txt └── README.md ``` </pre>
+google-calendar-analytics/
+├── dashboard/              # Streamlit app
+│   └── app.py
+├── data/
+│   └── calendar_events.db
+├── sql/
+│   └── calendar_analysis.sql
+├── notebooks/              # EDA, data generation
+│   ├── generate_calendar_data.py
+│   ├── eda_visuals.ipynb
+│   └── sql_analysis.ipynb
+├── images/                 # Screenshots or visuals
+│   └── sample_dashboard.png
+├── .streamlit/
+│   └── config.toml
+├── .gitignore
+├── requirements.txt
+└── README.md
 
 ---
 
